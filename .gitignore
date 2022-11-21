@@ -1,5 +1,5 @@
 # ignore node_modules dir
-/node_modules
+/solidity_prac/node_modules
 
 # ignore 환경 변수 파일
 .env

@@ -8,10 +8,11 @@
   },
   "author": "",
   "license": "ISC",
+  "module": "es2020",
   "devDependencies": {
     "openzeppelin-solidity": "^4.6.0"
   },
   "dependencies": {
-    "ipfs-http-client": "^59.0.0"
+    "ipfs-http-client": "^56.0.2"
   }
 }

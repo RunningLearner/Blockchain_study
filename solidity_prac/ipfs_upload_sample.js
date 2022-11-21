@@ -6,6 +6,6 @@ const ipfs = ipfsClient.create("http://127.0.0.1:5001");
 async function main() {
   const file = fs.readFileSync("./text.txt");
   let rst = await ipfs.add(file);
-  console.log(rst);
+  console.log(rst, file.toString());
 }
 main();

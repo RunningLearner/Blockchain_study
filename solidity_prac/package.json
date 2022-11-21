@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "openzeppelin-solidity": "^4.6.0"
+  },
+  "dependencies": {
+    "ipfs-http-client": "^59.0.0"
   }
 }
